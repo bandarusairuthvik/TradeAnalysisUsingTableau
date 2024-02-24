@@ -1,8 +1,5 @@
 # TradeAnalysisUsingTableau
 The project provides insights into trade patterns, including trade balances, and how missing data affects these analyses. It can be beneficial for trade analysts, economists, and policymakers aiming to understand trade dynamics between countries.
-# Global Trade and Logistics Business Unit Analysis
-
-This project analyzes global trade patterns, focusing on the countries USA, Canada, and Australia. The analysis investigates trade trends, trade balances, commodities, and trade values over the years 1988 to 2016.
 
 ## Table of Contents
 
