@@ -53,3 +53,5 @@ In today's interconnected world, international trade plays a crucial role in the
 Understanding global trade dynamics is essential for businesses venturing into international trade. Through this project, valuable insights were drawn regarding trade patterns, surpluses, deficits, and commodity trends. The interactive Tableau dashboards provide a user-friendly way to explore the data and make informed decisions.
 
 This project can serve as a foundation for further analysis and strategic planning in the global trade and logistics domain.
+
+Tableau Dashboard Can be Accessed from here: https://public.tableau.com/app/profile/sai.ruthvik.bandaru/viz/TradeAnalysis_17087959755380/GLOBALTRADEANALYSIS-1?publish=yes
